@@ -15,7 +15,7 @@ A project that uses SwiftUI and swift 5.5, MVVM for software architecture.
 - Swift 5.5
 
 ## Project overview
-/*
+
  Welcome to the Xero technical excercise!
  ---------------------------------------------------------------------------------
  The test consists of a small invoice application that has a number of issues.
@@ -36,7 +36,7 @@ A project that uses SwiftUI and swift 5.5, MVVM for software architecture.
  Good luck :)
  
  When you have finished the solution please zip it up and email it back to the recruiter or developer who sent it to you
- */
+
 
 ## Screens 
  ---------------------------------------------------------------------------------
@@ -63,11 +63,6 @@ A project that uses SwiftUI and swift 5.5, MVVM for software architecture.
 ## Libraries/Frameworks(swift package manager)
 - Realm
 - RealmDatabase
-
- ### Unit test : covered(60.5%)
-- functional testing covered
-<img src = "screenshot/unit-test.png" width = "700" hight = "650">
-- Automation UI testing - covered(20%)
 
 ## Project Folder structure
  ---------------------------------------------------------------------------------
