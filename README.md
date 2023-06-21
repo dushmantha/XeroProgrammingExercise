@@ -69,11 +69,6 @@ A project that uses SwiftUI and swift 5.5, MVVM for software architecture.
 - Invoice Line
 - Create Invoice
 
- ### Unit test : covered(60.5%)
-- functional testing covered
-<img src = "screenshot/unit-test.png" width = "700" hight = "650">
-- Automation UI testing - covered(20%)
-
 ## Project Folder structure
  ---------------------------------------------------------------------------------
 <img src = "screenshot/folderstructure.png" width = "300" hight = "420">
