@@ -64,6 +64,11 @@ A project that uses SwiftUI and swift 5.5, MVVM for software architecture.
 - Realm
 - RealmDatabase
 
+## Unit-Test
+- Invoice list
+- Invoice Line
+- Create Invoice
+
  ### Unit test : covered(60.5%)
 - functional testing covered
 <img src = "screenshot/unit-test.png" width = "700" hight = "650">
